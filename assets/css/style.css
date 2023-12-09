@@ -543,6 +543,12 @@ span.ReCoRD-shadow {
 span.important {
   color: rgba(255, 0, 0, 0.7); }
 
+summary.fullpub {
+  padding-left: 20px;
+  padding-bottom: 25px;
+  color: #44a774;
+  font-weight: 600; }
+
 @media print, screen and (max-width: 960px) {
   .contact {
     position: absolute;
