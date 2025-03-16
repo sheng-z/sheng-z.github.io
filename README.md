@@ -82,11 +82,12 @@ Interested in contributing to Minimal? We'd love your help. Minimal is an open s
 
 If you'd like to preview the theme locally (for example, in the process of proposing a change):
 
-1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`)
-2. `cd` into the theme's directory
-3. Run `script/bootstrap` to install the necessary dependencies
-4. Run `bundle exec jekyll serve` to start the preview server
-5. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
+1. Clone down the theme's repository (`git clone https://github.com/pages-themes/minimal`) 
+2. `sudo apt-get update` and `sudo apt-get install ruby-dev`
+3. `cd` into the theme's directory
+4. Run `script/bootstrap` to install the necessary dependencies
+5. Run `bundle exec jekyll serve` to start the preview server
+6. Visit [`localhost:4000`](http://localhost:4000) in your browser to preview the theme
 
 ### Running tests
 
