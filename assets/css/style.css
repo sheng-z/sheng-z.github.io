@@ -739,3 +739,14 @@ summary.fullpub {
 
   section {
     width: auto; } }
+
+@media screen and (max-width: 720px) {
+  header {
+    width: auto; }
+
+  .contact {
+    position: static;
+    margin-bottom: 20px; }
+
+  .contact-line {
+    overflow-wrap: anywhere; } }
